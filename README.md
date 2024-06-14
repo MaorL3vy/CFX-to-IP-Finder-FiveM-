@@ -17,7 +17,7 @@ To install and run this tool, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/cfx-to-ip-finder.git
+   git clone https://github.com/MaorL3vy/FX-to-IP-Finder-FiveM-.git
    cd cfx-to-ip-finder
    ```
 
